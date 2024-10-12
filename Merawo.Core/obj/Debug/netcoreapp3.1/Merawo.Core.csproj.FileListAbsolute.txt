@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\bin\Debug\netcoreapp3.1\Merawo.Core.deps.json
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\bin\Debug\netcoreapp3.1\Merawo.Core.runtimeconfig.json
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\bin\Debug\netcoreapp3.1\Merawo.Core.runtimeconfig.dev.json
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\bin\Debug\netcoreapp3.1\Merawo.Core.dll
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\bin\Debug\netcoreapp3.1\Merawo.Core.pdb
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.dll
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.pdb
+C:\Users\User\source\repos\Merawo.WebAPI\Merawo.Core\obj\Debug\netcoreapp3.1\Merawo.Core.genruntimeconfig.cache
